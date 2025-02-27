@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# My first coding project!!! 🚀
 
 # 👋 Hi, I'm Muhammad Nur Abdullah
 
