@@ -48,7 +48,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me On My Socials!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lightray101)  
 
